@@ -10,7 +10,7 @@ names.forEach((name) => {console.log('arrow-func', name)});
 // just a statement remvoe culry if you just want to do one thing
 names.forEach((name) => console.log('easier- ', name));
 
-// example with a return
+// example with a return - See that return me is now kind of a method
 var returnMe = (name) => name + '!';
 console.log(returnMe('Dave'));
 
