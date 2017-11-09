@@ -17,7 +17,7 @@ var About = (props) => {
       <p>This was me learning to use React.</p>
       <ul>
         <li><a href="https://facebook.github.io/react"> React</a></li>
-        <li><a href="https://openweathermap.org">openWeatherMap<a> This is the API for the weather calls.</li>
+        <li><a href="https://openweathermap.org">openWeatherMap</a> This is the API for the weather calls.</li>
       </ul>
 
     </div>
