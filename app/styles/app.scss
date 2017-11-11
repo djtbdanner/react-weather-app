@@ -1,0 +1,19 @@
+/*variable*/
+$space-large: 2.5rem;
+$title-color: gray;
+$box-shad: 10px 5px 5px $title-color;
+$box-shad: none;
+
+
+.page-title{
+  color: $title-color;
+  margin-top: $space-large;
+  margin-bottom: $space-large;
+  box-shadow: $box-shad;
+
+}
+
+input[type=search]{
+  // box-shadow: 10px 5px 5px black;
+  box-shadow: $box-shad;
+}
